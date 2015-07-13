@@ -1,0 +1,665 @@
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(5, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(6, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(19, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(11, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(9, 1, 0, false}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(11, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(12, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(9, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(11, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(14, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(11, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(9, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(13, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(11, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(15, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(16, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(17, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(19, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(0, 1, 0, true}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(1, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(1, 1, 0, true}): Symbol: ++
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(4, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(4, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(4, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(5, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(6, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(5, 1, 0, false}): Integer: 8
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(8, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(8, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(9, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(10, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(4, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(6, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(1, 1, 0, true}): Whitespace:    
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(4, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(6, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(7, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(4, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(4, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(5, 1, 0, false}): Integer: 7
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(9, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(10, 1, 0, false}): Whitespace:   
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(6, 1, 0, false}): Symbol: ++
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(7, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(12, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(9, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(11, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(12, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(15, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(14, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(11, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(15, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(15, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(12, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(16, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(16, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(17, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(14, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(19, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(20, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(21, 1, 0, false}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(23, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(24, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(23, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(24, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(25, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(26, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(27, 1, 0, false}): Integer: 5
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,2,1,+,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Parser - No parser/token found: No right hand element for infix Token(Symbol,22,1,;,true,Map())
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(0, 1, 0, true}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(1, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(1, 1, 0, true}): Symbol: ++
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(4, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(4, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(6, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(4, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(5, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(5, 1, 0, false}): Integer: 8
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(4, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(6, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(8, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(6, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(8, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(9, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(10, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(1, 1, 0, true}): Whitespace:    
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(4, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(4, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(4, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(6, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(5, 1, 0, false}): Integer: 7
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(7, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(6, 1, 0, false}): Symbol: ++
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(7, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(9, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(9, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(10, 1, 0, false}): Whitespace:   
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(11, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(12, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(12, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(10, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(15, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(11, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(16, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(12, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(15, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(17, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(14, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(15, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(19, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(16, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(17, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(21, 1, 0, false}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(22, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(23, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(24, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(23, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(24, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(25, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(26, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(27, 1, 0, false}): Integer: 5
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(5, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(6, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(19, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(9, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(9, 1, 0, false}): String: Hello World
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(9, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(9, 1, 0, false}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(9, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(11, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(11, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(11, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(11, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(12, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(11, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(20, 1, 0, false}): String: !
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(13, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(14, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(14, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(13, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(15, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(16, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(17, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(19, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(19, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(18, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(19, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(20, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-6 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(21, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-8 Lexx - Token(22, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(0, 1, 0, true}): Integer: 9
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 10
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, false}): Keyword: FOR
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(2, 1, 0, false}): Keyword: FOR
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(9, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(6, 1, 0, false}): Ident: D
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(8, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(10, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(9, 1, 0, false}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(11, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(10, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(12, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(11, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(12, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(14, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(13, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(14, 1, 0, false}): Integer: 7
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(15, 1, 0, false}): Integer: 5
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(15, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(16, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(16, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(17, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(18, 1, 0, false}): Symbol: (
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(19, 1, 0, false}): Integer: 3
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(20, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(21, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(22, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(23, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(16, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(24, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(16, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(24, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(24, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(16, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(8, 1, 0, false}): Symbol: =
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(17, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(25, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(18, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(26, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(19, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(27, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(20, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(28, 1, 0, false}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(21, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(29, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(30, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(29, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(21, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(30, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(29, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(30, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(21, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(31, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(32, 1, 0, false}): Integer: 18
+DEBUG specs2.DefaultExecutionStrategy-7 Lexx - Token(21, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(34, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(35, 1, 0, false}): Symbol: /
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(36, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(37, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(38, 1, 0, false}): Integer: 6
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(40, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(40, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(40, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(40, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(40, 1, 0, false}): Symbol: )
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(41, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(42, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(41, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(42, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(43, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(44, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(45, 1, 0, false}): Integer: 5
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(46, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(46, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(46, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(46, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(46, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(8, 1, 0, false}): Symbol: =
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(9, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(10, 1, 0, false}): Integer: 100
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(13, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(14, 1, 0, false}): Keyword: TO
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(16, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(17, 1, 0, false}): Integer: 110
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(20, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(21, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(21, 1, 0, false}): Keyword: PRINT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(26, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(27, 1, 0, false}): String: D: 
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(32, 1, 0, false}): Symbol: ;
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(33, 1, 0, false}): Ident: D
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(34, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(34, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(34, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(34, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(34, 1, 0, false}): Symbol: :
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(35, 1, 0, false}): Keyword: NEXT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(35, 1, 0, false}): Keyword: NEXT
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(39, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-5 Lexx - Token(40, 1, 0, false}): Ident: D

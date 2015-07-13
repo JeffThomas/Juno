@@ -1,0 +1,30 @@
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(0, 1, 0, true}): Integer: 2
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(1, 1, 0, true}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(2, 1, 0, false}): Symbol: +
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(2, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(2, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(3, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-1 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-3 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(4, 1, 0, false}): Integer: 1
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(4, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(6, 1, 0, false}): Symbol: *
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-4 Lexx - Token(8, 1, 0, false}): Integer: 4
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(5, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(6, 1, 0, false}): Symbol: -
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(7, 1, 0, false}): Whitespace:  
+DEBUG specs2.DefaultExecutionStrategy-2 Lexx - Token(8, 1, 0, false}): Integer: 1

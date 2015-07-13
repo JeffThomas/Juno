@@ -1,0 +1,7 @@
+<com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-results timestamp="1426658223739"><result location="com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec (SymbolMatcherSpec.scala:26)" id="775945476"><stats time="150" expectations="1" failures="1" examples="1"></stats></result>
+<result location="com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec (SymbolMatcherSpec.scala:32)" id="813621786"><stats time="150" expectations="1" failures="1" examples="1"></stats></result>
+<result location="com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec (SymbolMatcherSpec.scala:40)" id="-1980956611"><stats time="149" expectations="1" failures="1" examples="1"></stats></result>
+</com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-results>
+<com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats timestamp="1426658223751"><stats time="18" expectations="3" failures="3" examples="3"></stats></com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats>
+<com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats timestamp="1426658255428"><stats time="17" expectations="3" successes="3" examples="3"><trend><stats time="17" failures="-3" successes="3"></stats></trend></stats></com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats>
+<com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats timestamp="1426741327332"><stats time="19" expectations="3" successes="3" examples="3"></stats></com.twilightfair.juno.lexx.matchers.SymbolMatcherSpec-stats>

@@ -1,0 +1,9 @@
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-results timestamp="1426657361001"><result location="com.twilightfair.juno.lexx.matchers.FloatMatcherSpec (FloatMatcherSpec.scala:31)" id="334856568"><stats time="165" expectations="1" failures="1" examples="1"></stats></result>
+<result location="com.twilightfair.juno.lexx.matchers.FloatMatcherSpec (FloatMatcherSpec.scala:38)" id="1207602497"><stats time="157" expectations="1" failures="1" examples="1"></stats></result>
+</com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-results>
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats timestamp="1426657361013"><stats time="18" expectations="4" failures="2" successes="2" examples="4"></stats></com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats>
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-results timestamp="1426657575120"><result location="com.twilightfair.juno.lexx.matchers.FloatMatcherSpec (FloatMatcherSpec.scala:38)" id="1207602497"><stats time="106" expectations="1" failures="1" examples="1"></stats></result>
+</com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-results>
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats timestamp="1426657575131"><stats time="18" expectations="4" failures="1" successes="3" examples="4"><trend><stats time="18" failures="-1" successes="1"></stats></trend></stats></com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats>
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats timestamp="1426657628212"><stats time="17" expectations="3" successes="3" examples="3"><trend><stats time="17" expectations="-1" failures="-1" examples="-1"></stats></trend></stats></com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats>
+<com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats timestamp="1426658212430"><stats time="18" expectations="3" successes="3" examples="3"></stats></com.twilightfair.juno.lexx.matchers.FloatMatcherSpec-stats>
