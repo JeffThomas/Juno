@@ -19,7 +19,6 @@ class IntegerElementRPN(config: ElementConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object IntegerElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new IntegerElementRPN(config)))
@@ -33,7 +32,6 @@ class FloatElementRPN(config: ElementConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object FloatElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new FloatElementRPN(config)))
@@ -47,7 +45,6 @@ class InfixMathElementRPN(config: InfixConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object InfixMathElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new InfixMathElementRPN(config.asInstanceOf[InfixConfig])))
@@ -61,7 +58,6 @@ class InfixSeparatorElementRPN(config: InfixConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object InfixSeparatorElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new InfixSeparatorElementRPN(config.asInstanceOf[InfixConfig])))
@@ -75,7 +71,6 @@ class PrefixMathElementRPN(config: PrefixConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object PrefixMathElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new PrefixMathElementRPN(config.asInstanceOf[PrefixConfig])))
@@ -89,7 +84,6 @@ class PostfixMathElementRPN(config: PostfixConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object PostfixMathElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new PostfixMathElementRPN(config.asInstanceOf[PostfixConfig])))
@@ -103,7 +97,6 @@ class BlockElementRPN(config: BlockConfig)
   }
 
   override def tree(indent: String, buffer: StringBuilder): StringBuilder = ???
-  override lazy val graphName: String = ???
 }
 object BlockElementRPN extends ElementFactory {
   def apply(config: ElementConfig) = Right(Some(new BlockElementRPN(config.asInstanceOf[BlockConfig])))

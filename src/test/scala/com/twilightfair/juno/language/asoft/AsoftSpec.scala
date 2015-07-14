@@ -70,352 +70,353 @@ class AsoftSpec extends Specification {
 
   "The Asoft Language" should {
 
-    "input" in {
-      val out = runScript("""10 INPUT "Type soemthing: ", A$""")
+// INPUT is not ready for  primetime yet
+//    "input" in {
+//      val out = runScript("""10 INPUT "Type soemthing: ", A$""")
+//      out mustEqual "Hello, World\n"
+//    }
+//
+
+    "print" in {
+      val out = runScript("""10 PRINT "Hello, World"""")
       out mustEqual "Hello, World\n"
     }
 
-    /*
-        "print" in {
-          val out = runScript("""10 PRINT "Hello, World"""")
-          out mustEqual "Hello, World\n"
-        }
+    "print with a concatenation" in {
+      val out = runScript("""10 PRINT "Hello, World";"!"""")
+      out mustEqual "Hello, World!\n"
+    }
 
-        "print with a concatenation" in {
-          val out = runScript("""10 PRINT "Hello, World";"!"""")
-          out mustEqual "Hello, World!\n"
-        }
+    "print without a trailing carriage return" in {
+      val out = runScript("10 PRINT \"Hello, World\";")
+      out mustEqual "Hello, World"
+    }
 
-        "print without a trailing carriage return" in {
-          val out = runScript("10 PRINT \"Hello, World\";")
-          out mustEqual "Hello, World"
-        }
+    "add two numbers" in {
+      val out = runScript("""10 PRINT 1 + 2;""")
+      out mustEqual "3.0"
+    }
 
-        "add two numbers" in {
-          val out = runScript("""10 PRINT 1 + 2;""")
-          out mustEqual "3.0"
-        }
+    "subtract two numbers" in {
+      val out = runScript("""10 PRINT 1 - 2;""")
+      out mustEqual "-1.0"
+    }
 
-        "subtract two numbers" in {
-          val out = runScript("""10 PRINT 1 - 2;""")
-          out mustEqual "-1.0"
-        }
+    "multiply two numbers" in {
+      val out = runScript("""10 PRINT 3 * 2;""")
+      out mustEqual "6.0"
+    }
 
-        "multiply two numbers" in {
-          val out = runScript("""10 PRINT 3 * 2;""")
-          out mustEqual "6.0"
-        }
+    "divide two numbers" in {
+      val out = runScript("""10 PRINT 10 / 2;""")
+      out mustEqual "5.0"
+    }
 
-        "divide two numbers" in {
-          val out = runScript("""10 PRINT 10 / 2;""")
-          out mustEqual "5.0"
-        }
+    "follow precedence" in {
+      val out = runScript("""10 PRINT 2 + 3 * 4 - 1;""")
+      out mustEqual "13.0"
+    }
 
-        "follow precedence" in {
-          val out = runScript("""10 PRINT 2 + 3 * 4 - 1;""")
-          out mustEqual "13.0"
-        }
+    "follow precedence 2" in {
+      val out = runScript("""10 PRINT (1 - -5) + 1;""")
+      out mustEqual "7.0"
+    }
 
-        "follow precedence 2" in {
-          val out = runScript("""10 PRINT (1 - -5) + 1;""")
-          out mustEqual "7.0"
-        }
+    "compute a big expression" in {
+      val out = runScript("""10 PRINT 2 + (7 + (3 - 1) * 6 + 18 / -6 ) - -5;""")
+      out mustEqual "23.0"
+    }
 
-        "compute a big expression" in {
-          val out = runScript("""10 PRINT 2 + (7 + (3 - 1) * 6 + 18 / -6 ) - -5;""")
-          out mustEqual "23.0"
-        }
+    "execute one line multiple commands" in {
+      val out = runScript("10 PRINT \"Hello, \";:PRINT \"Sailor!\";")
+      out mustEqual
+        """Hello, Sailor!"""
+    }
 
-        "execute one line multiple commands" in {
-          val out = runScript("10 PRINT \"Hello, \";:PRINT \"Sailor!\";")
-          out mustEqual
-            """Hello, Sailor!"""
-        }
+    "run a for loop" in {
+      val out = runScript("10 FOR D = 100 TO 110:PRINT \"D: \";D:NEXT D")
+      out mustEqual
+        """D: 100
+D: 101.0
+D: 102.0
+D: 103.0
+D: 104.0
+D: 105.0
+D: 106.0
+D: 107.0
+D: 108.0
+D: 109.0
+D: 110.0
+"""
+    }
 
-        "run a for loop" in {
-          val out = runScript("10 FOR D = 100 TO 110:PRINT \"D: \";D:NEXT D")
-          out mustEqual
-            """D: 100
-    D: 101.0
-    D: 102.0
-    D: 103.0
-    D: 104.0
-    D: 105.0
-    D: 106.0
-    D: 107.0
-    D: 108.0
-    D: 109.0
-    D: 110.0
-    """
-        }
+    "run a for loop with a step" in {
+      val out = runScript("10 FOR I = 0 TO 10 STEP 2:PRINT \"I: \";I:NEXT I")
+      out mustEqual
+        """I: 0
+I: 2.0
+I: 4.0
+I: 6.0
+I: 8.0
+I: 10.0
+"""
+    }
 
-        "run a for loop with a step" in {
-          val out = runScript("10 FOR I = 0 TO 10 STEP 2:PRINT \"I: \";I:NEXT I")
-          out mustEqual
-            """I: 0
-    I: 2.0
-    I: 4.0
-    I: 6.0
-    I: 8.0
-    I: 10.0
-    """
-        }
+    "run a for loop with a negative step" in {
+      val out = runScript("10 FOR I = 10 TO 0 STEP -1:PRINT \"I: \";I:NEXT I")
+      out mustEqual
+        """I: 10
+I: 9.0
+I: 8.0
+I: 7.0
+I: 6.0
+I: 5.0
+I: 4.0
+I: 3.0
+I: 2.0
+I: 1.0
+I: 0.0
+"""
+    }
 
-        "run a for loop with a negative step" in {
-          val out = runScript("10 FOR I = 10 TO 0 STEP -1:PRINT \"I: \";I:NEXT I")
-          out mustEqual
-            """I: 10
-    I: 9.0
-    I: 8.0
-    I: 7.0
-    I: 6.0
-    I: 5.0
-    I: 4.0
-    I: 3.0
-    I: 2.0
-    I: 1.0
-    I: 0.0
-    """
-        }
+    "run a nested for loop" in {
+      val out = runScript("""
+10 FOR K = 2 TO 5
+20 FOR J = 0 TO 6 STEP 2
+30 PRINT "K,J: ";K;" ";J
+40 NEXT J,K
+""")
+      out mustEqual
+        """K,J: 2 0
+K,J: 2 2.0
+K,J: 2 4.0
+K,J: 2 6.0
+K,J: 3.0 0
+K,J: 3.0 2.0
+K,J: 3.0 4.0
+K,J: 3.0 6.0
+K,J: 4.0 0
+K,J: 4.0 2.0
+K,J: 4.0 4.0
+K,J: 4.0 6.0
+K,J: 5.0 0
+K,J: 5.0 2.0
+K,J: 5.0 4.0
+K,J: 5.0 6.0
+"""
+    }
 
-        "run a nested for loop" in {
-          val out = runScript("""
-    10 FOR K = 2 TO 5
-    20 FOR J = 0 TO 6 STEP 2
-    30 PRINT "K,J: ";K;" ";J
-    40 NEXT J,K
-    """)
-          out mustEqual
-            """K,J: 2 0
-    K,J: 2 2.0
-    K,J: 2 4.0
-    K,J: 2 6.0
-    K,J: 3.0 0
-    K,J: 3.0 2.0
-    K,J: 3.0 4.0
-    K,J: 3.0 6.0
-    K,J: 4.0 0
-    K,J: 4.0 2.0
-    K,J: 4.0 4.0
-    K,J: 4.0 6.0
-    K,J: 5.0 0
-    K,J: 5.0 2.0
-    K,J: 5.0 4.0
-    K,J: 5.0 6.0
-    """
-        }
+    "store variables" in {
+      val out = runScript(
+        """
+10 X% = 4 : Y = 9 : S$ = "Petunia"
+20 PRINT X%;", ";Y;", ";S$;
+        """)
+      out mustEqual
+        """4, 9.0, Petunia"""
+    }
 
-        "store variables" in {
-          val out = runScript(
-            """
-    10 X% = 4 : Y = 9 : S$ = "Petunia"
-    20 PRINT X%;", ";Y;", ";S$;
-            """)
-          out mustEqual
-            """4, 9.0, Petunia"""
-        }
+    "use variables in expressions" in {
+      val out = runScript(
+        """
+10 X% = 4 : Y = 9
+20 PRINT X% * Y + 1;
+""")
+      out mustEqual
+        """37.0"""
+    }
 
-        "use variables in expressions" in {
-          val out = runScript(
-            """
-    10 X% = 4 : Y = 9
-    20 PRINT X% * Y + 1;
-    """)
-          out mustEqual
-            """37.0"""
-        }
+    "assign an array value" in {
+      val out = runScript(
+        """
+10 DIM A(5)
+20 A(2) = 900
+30 PRINT A(2);
+        """)
+      out mustEqual
+        """900.0"""
+    }
 
-        "assign an array value" in {
-          val out = runScript(
-            """
-    10 DIM A(5)
-    20 A(2) = 900
-    30 PRINT A(2);
-            """)
-          out mustEqual
-            """900.0"""
-        }
+    "assign a multiple array value" in {
+      val out = runScript(
+        """
+10 DIM B%(2,4)
+20 B%(1, 2) = 300
+30 PRINT B%(1, 2);
+        """)
+      out mustEqual
+        """300"""
+    }
 
-        "assign a multiple array value" in {
-          val out = runScript(
-            """
-    10 DIM B%(2,4)
-    20 B%(1, 2) = 300
-    30 PRINT B%(1, 2);
-            """)
-          out mustEqual
-            """300"""
-        }
+    "assign an array value in a FOR" in {
+      val out = runScript(
+        """
+10 DIM A(5)
+20 FOR I = 0 TO 4:A(I) = I:NEXT I
+30 PRINT A(2);
+        """)
+      out mustEqual
+        """2.0"""
+    }
 
-        "assign an array value in a FOR" in {
-          val out = runScript(
-            """
-    10 DIM A(5)
-    20 FOR I = 0 TO 4:A(I) = I:NEXT I
-    30 PRINT A(2);
-            """)
-          out mustEqual
-            """2.0"""
-        }
+    "simple IF statement true" in {
+      val out = runScript(
+        """
+10 IF 2 > 1 THEN PRINT "Yes!";
+""")
+      out mustEqual
+        """Yes!"""
+    }
 
-        "simple IF statement true" in {
-          val out = runScript(
-            """
-    10 IF 2 > 1 THEN PRINT "Yes!";
-    """)
-          out mustEqual
-            """Yes!"""
-        }
+    "simple IF statement false" in {
+      val out = runScript(
+        """
+10 IF 2 < 1 THEN PRINT "Yes!";
+        """)
+      out mustEqual
+        """"""
+    }
 
-        "simple IF statement false" in {
-          val out = runScript(
-            """
-    10 IF 2 < 1 THEN PRINT "Yes!";
-            """)
-          out mustEqual
-            """"""
-        }
+    "IF statement with compound line" in {
+      val out = runScript(
+        """
+10 IF 5 * 2 > 9 THEN X% = 10 : PRINT "A ";X%;
+20 PRINT "!";
+        """)
+      out mustEqual
+        """A 10!"""
+    }
 
-        "IF statement with compound line" in {
-          val out = runScript(
-            """
-    10 IF 5 * 2 > 9 THEN X% = 10 : PRINT "A ";X%;
-    20 PRINT "!";
-            """)
-          out mustEqual
-            """A 10!"""
-        }
+    "IF doesn't execute compound on false" in {
+      val out = runScript(
+        """
+10 IF 2 > 4 THEN X% = 10 : PRINT "A ";X%;
+20 PRINT "!";
+        """)
+      out mustEqual
+        """!"""
+    }
 
-        "IF doesn't execute compound on false" in {
-          val out = runScript(
-            """
-    10 IF 2 > 4 THEN X% = 10 : PRINT "A ";X%;
-    20 PRINT "!";
-            """)
-          out mustEqual
-            """!"""
-        }
+    "should GOTO" in {
+      val out = runScript(
+        """
+10 GOTO 30
+20 PRINT "Hello, ";
+30 PRINT "World";
+        """)
+      out mustEqual
+        """World"""
+    }
 
-        "should GOTO" in {
-          val out = runScript(
-            """
-    10 GOTO 30
-    20 PRINT "Hello, ";
-    30 PRINT "World";
-            """)
-          out mustEqual
-            """World"""
-        }
+    "should GOTO back and forward" in {
+      val out = runScript(
+        """
+10 GOTO 40
+20 PRINT "World";
+30 GOTO 60
+40 PRINT "Hello, ";
+50 GOTO 20
+60 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, World!"""
+    }
 
-        "should GOTO back and forward" in {
-          val out = runScript(
-            """
-    10 GOTO 40
-    20 PRINT "World";
-    30 GOTO 60
-    40 PRINT "Hello, ";
-    50 GOTO 20
-    60 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, World!"""
-        }
+    "should GOSUB and RETURN" in {
+      val out = runScript(
+        """
+10 GOSUB 40
+20 PRINT "World";
+30 GOTO 60
+40 PRINT "Hello, ";
+50 RETURN
+60 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, World!"""
+    }
 
-        "should GOSUB and RETURN" in {
-          val out = runScript(
-            """
-    10 GOSUB 40
-    20 PRINT "World";
-    30 GOTO 60
-    40 PRINT "Hello, ";
-    50 RETURN
-    60 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, World!"""
-        }
+    "should GOSUB and RETURN to different locations" in {
+      val out = runScript(
+        """
+10 GOSUB 60
+20 PRINT "World! ";
+30 GOSUB 60
+40 PRINT "Sailor";
+50 GOTO 80
+60 PRINT "Hello, ";
+70 RETURN
+80 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, World! Hello, Sailor!"""
+    }
 
-        "should GOSUB and RETURN to different locations" in {
-          val out = runScript(
-            """
-    10 GOSUB 60
-    20 PRINT "World! ";
-    30 GOSUB 60
-    40 PRINT "Sailor";
-    50 GOTO 80
-    60 PRINT "Hello, ";
-    70 RETURN
-    80 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, World! Hello, Sailor!"""
-        }
+    "IF THEN goto" in {
+      val out = runScript(
+        """
+5 X% = 2
+10 IF 10 / X% < X% * 3 THEN 40
+20 PRINT "World";
+30 GOTO 60
+40 PRINT "Hello, ";
+60 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, !"""
+    }
 
-        "IF THEN goto" in {
-          val out = runScript(
-            """
-    5 X% = 2
-    10 IF 10 / X% < X% * 3 THEN 40
-    20 PRINT "World";
-    30 GOTO 60
-    40 PRINT "Hello, ";
-    60 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, !"""
-        }
+    "ON GOTO" in {
+      val out = runScript(
+        """
+10 X% = 3
+20 ON X% GOTO 600, 600, 50, 600, 600, 130, 100
+30 PRINT "World";
+40 GOTO 60
+50 PRINT "Hello, ";
+60 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, !"""
+    }
 
-        "ON GOTO" in {
-          val out = runScript(
-            """
-    10 X% = 3
-    20 ON X% GOTO 600, 600, 50, 600, 600, 130, 100
-    30 PRINT "World";
-    40 GOTO 60
-    50 PRINT "Hello, ";
-    60 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, !"""
-        }
+    "ON GOSUB" in {
+      val out = runScript(
+        """
+10 X% = 3
+20 ON X% GOSUB 600, 600, 50, 600, 600, 130, 100
+30 PRINT "World";
+40 GOTO 70
+50 PRINT "Hello, ";
+60 RETURN
+70 PRINT "!";
+        """)
+      out mustEqual
+        """Hello, World!"""
+    }
 
-        "ON GOSUB" in {
-          val out = runScript(
-            """
-    10 X% = 3
-    20 ON X% GOSUB 600, 600, 50, 600, 600, 130, 100
-    30 PRINT "World";
-    40 GOTO 70
-    50 PRINT "Hello, ";
-    60 RETURN
-    70 PRINT "!";
-            """)
-          out mustEqual
-            """Hello, World!"""
-        }
+    "store DATA" in {
+      val script = """
+10 DATA This, is a, test
+20 DATA Of, the DATA, command
+                   """
+      val out = Asoft.parse(script.toStream)
+      out.elements.size mustEqual 7
+      out.parser.data("Data").asInstanceOf[List[String]].mkString("") mustEqual " This is a test Of the DATA command"
 
-        "store DATA" in {
-          val script = """
-    10 DATA This, is a, test
-    20 DATA Of, the DATA, command
-                       """
-          val out = Asoft.parse(script.toStream)
-          out.elements.size mustEqual 7
-          out.parser.data("Data").asInstanceOf[List[String]].mkString("") mustEqual " This is a test Of the DATA command"
+    }
 
-        }
+    "store DATA with quoted string" in {
+      val script = """
+10 DATA This, is a, test
+20 DATA " Of, the DATA", command
+                   """
+      val out = Asoft.parse(script.toStream)
+      out.elements.size mustEqual 7
+      out.parser.data("Data").asInstanceOf[List[String]].mkString("") mustEqual " This is a test Of, the DATA command"
 
-        "store DATA with quoted string" in {
-          val script = """
-    10 DATA This, is a, test
-    20 DATA " Of, the DATA", command
-                       """
-          val out = Asoft.parse(script.toStream)
-          out.elements.size mustEqual 7
-          out.parser.data("Data").asInstanceOf[List[String]].mkString("") mustEqual " This is a test Of, the DATA command"
+    }
 
-        }
-    */
 
     "pull data into a var with a READ" in {
       val script = """

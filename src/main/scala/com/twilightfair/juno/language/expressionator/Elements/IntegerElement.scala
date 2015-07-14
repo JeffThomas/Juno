@@ -29,7 +29,7 @@ class IntegerElement(config: ElementConfig)
     buffer ++= s"$indent$graphName: $value\n"
   }
 
-  lazy val graphName = s"Integer${IntegerElement.getCount}"
+  override lazy val graphName = s"Integer${IntegerElement.getCount}"
   override def graph(graph: String): (String, String) = {
     (graphName, graph + s"class $graphName{\n\t$value\n}\n")
   }
