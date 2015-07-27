@@ -1,6 +1,6 @@
 # Juno
-Juno is a computer language experimentation kit. It's meant to provide a handy starting point from which you can 
-build your own scripping language or experiment with ideas. Juno will provide a number of starting languages
+Juno is a programming language experimentation kit. It's meant to provide a handy starting point from which you can 
+build your own scripting language or experiment with ideas. Juno will provide a number of starting languages
 that you can use as a starting point for your own language with no need to implement the basics, such as
 parsing and evaluating expressions.
 
