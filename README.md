@@ -1,8 +1,5 @@
 # Juno
-Juno is a programming language experimentation kit. It's meant to provide a handy starting point from which you can 
-build your own scripting language or experiment with ideas. Juno will provide a number of starting languages
-that you can use as a starting point for your own language with no need to implement the basics, such as
-parsing and evaluating expressions.
+I've been experimenting with writing scripting languages for a very long time. For my latest, which was to be called Mojo, I tried to make it as generic as possible so I could use it as a starting point for other scripting language ideas. I prototyped it in JavaScript then while making an Alpha in Scala I realized that the computer language starter platform part of Mojo was actually more interesting and useful than Mojo itself. So I called it Juno, and it's meant to provide a handy starting point from which anyone can build their own scripting language or experiment with ideas. Juno will provide a number of starting languages that can be use as a starting point with no need to implement the basics such as tokenizing the input string or even parsing and evaluating expressions. Sure you could use Bison or the like, but they have steep learning curves and provide no guidance as to how to execute the code once it's parsed. Juno is meant to be easier to learn and includes execution samples than can be used as foundations to build on. It does require that you learn Scala if you don't know it, but that will be more useful in the long run than learning Bison 
 
 I don't think it's quite ready for primetime so I haven't fully documented it yet, but feel free to poke around and
 if you have suggestions they are welcome. If you'd like to experiment with Juno I highly suggest reading the rest of this
